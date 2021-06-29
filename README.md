@@ -1,5 +1,6 @@
 # Hostel-Near-Me
-This is an android application built in java and firebase ,this app is built for students who struggle really hard to find a good hostel or PG around them.
+This is an android application built in java and firebase ,this app is built for students who struggle really hard to find a good hostel or PG around them and owners of the hostel 
+or pg can upload their details so that students can contact them ASAP
 
 
 ![hnm2](https://user-images.githubusercontent.com/63840354/123792531-58eaae80-d8fe-11eb-8ea3-7bf417723ea2.jpg)
